@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <!-- [![Arbaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=arbyam)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Arbaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=arbyam&show_icons=true&theme=dark)
+![Arbaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=arbyam&show_icons=true&theme=merko)
